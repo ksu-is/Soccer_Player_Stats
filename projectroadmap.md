@@ -3,6 +3,7 @@ Roadmap:
 1. Create a Readme which gives the user basic information about the program.
 2. Create a "projectroadmap.md" in the main project code repository.
 3. Find some soccer statistics related codes on github and view them.
+Install API Key from football-data.org and create account
 4. Get the codes running and test it.
 5. Choose one of them and clone it to you Github repository.
 6. Read the code and search for unused lines.
